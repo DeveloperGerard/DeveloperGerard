@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+ <h1>Hola soy,Gerard💻😊 </h1> 
+</div>
 <!--
 **DeveloperGerard/DeveloperGerard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
