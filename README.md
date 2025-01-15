@@ -1,7 +1,9 @@
 <div align="center">
  <h1>Hola soy,Gerard💻😊 </h1> 
 </div>
+<div align="center">
 <img src="https://github.com/DeveloperGerard/DeveloperGerard/blob/main/Flux_Dev_A_solemn_and_professional_digital_illustration_depict_2.jpeg" width="300px">
+</div>
 <!--
 **DeveloperGerard/DeveloperGerard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
